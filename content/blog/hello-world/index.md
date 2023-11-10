@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: "2023-11-10T10:00:00.000Z"
-description: "Hello World"
+description: "Diving into the World of Artificial Intelligence"
 ---
 
 This is my first post on my new blog! How exciting!
