@@ -47,6 +47,5 @@ Keep an eye out for monetization details and potential lead generation through a
 
 For AI enthusiasts and professionals seeking continuous learning, platforms like Skill Leap AI offer extensive courses on AI tools, providing valuable resources to enhance productivity in work and business.
 
-[![Video Title](http://img.youtube.com/vi/JexprHuk/0.jpg)](http://www.youtube.com/watch?v=5--JexprHuk "Watch the video")
-
+[![Video Title](https://i.ytimg.com/vi/5--JexprHuk/hqdefault.jpg)](https://www.youtube.com/watch?v=5--JexprHuk "Watch the video")
 
