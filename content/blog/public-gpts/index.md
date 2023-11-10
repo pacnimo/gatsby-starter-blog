@@ -11,3 +11,8 @@ description: ""
 
 - **News Galore Wordsatscale**: [https://chat.openai.com/g/g-dbfzYMTs6-news-galore-wordsatscale](https://chat.openai.com/g/g-dbfzYMTs6-news-galore-wordsatscale)
 
+
+## more New GPT`s
+
+- **Virtual Dave GPT:**: [https://chat.openai.com/g/g-FjgsPugjY-virtual-david-shapiro](https://chat.openai.com/g/g-FjgsPugjY-virtual-david-shapiro)
+- **Hephaestus' Hammer HAAS GPT:**: [https://chat.openai.com/g/g-L7pVl4WM7-hephaestus-hammer-haas-project](https://chat.openai.com/g/g-L7pVl4WM7-hephaestus-hammer-haas-project)
