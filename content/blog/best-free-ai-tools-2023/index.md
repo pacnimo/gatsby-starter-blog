@@ -16,21 +16,21 @@ The world of AI is evolving rapidly, and there are multiple tools available for 
 
 ## Text to Image Generation and Editing
 
-- **Fast Stable Diffusion**: [https://huggingface.co/spaces/prodia/fast-stable-diffusion](https://huggingface.co/spaces/prodia/fast-stable-diffusion){:target="_blank" rel="noopener noreferrer"}
-- **Stable Diffusion WEB UI**: [https://huggingface.co/spaces/camenduru-com/webui](https://huggingface.co/spaces/camenduru-com/webui){:target="_blank" rel="noopener noreferrer"}
-- **Dezgo**: [https://dezgo.com/](https://dezgo.com/){:target="_blank" rel="noopener noreferrer"}
+- **Fast Stable Diffusion**: [https://huggingface.co/spaces/prodia/fast-stable-diffusion](https://huggingface.co/spaces/prodia/fast-stable-diffusion)
+- **Stable Diffusion WEB UI**: [https://huggingface.co/spaces/camenduru-com/webui](https://huggingface.co/spaces/camenduru-com/webui)
+- **Dezgo**: [https://dezgo.com/](https://dezgo.com/)
 - **Midjourney**: An AI tool that excels in generating images from textual descriptions, often producing creative and surprising results.
 - **DALL-E**: Another offering from OpenAI that creates images from textual prompts, demonstrating remarkable capability in synthesizing concepts and compositions.
 - **DeepArt**: Uses neural networks to transform your photos into artwork in the style of famous artists.
 
 ## Image to Text
 
-- **LLaVA**: [https://huggingface.co/spaces/badayvedat/LLaVA](https://huggingface.co/spaces/badayvedat/LLaVA){:target="_blank" rel="noopener noreferrer"} LLaVA: Large Language and Vision Assistant
-- **CoCa**: [https://huggingface.co/spaces/fffiloni/CoCa-clone](https://huggingface.co/spaces/fffiloni/CoCa-clone){:target="_blank" rel="noopener noreferrer"} CoCa: Contrastive Captioners
+- **LLaVA**: [https://huggingface.co/spaces/badayvedat/LLaVA](https://huggingface.co/spaces/badayvedat/LLaVA) LLaVA: Large Language and Vision Assistant
+- **CoCa**: [https://huggingface.co/spaces/fffiloni/CoCa-clone](https://huggingface.co/spaces/fffiloni/CoCa-clone) CoCa: Contrastive Captioners
 
 ## Audio and Music Generation
 
-- **Splash Music**: Create songs with AI [https://pro.splashmusic.com/](https://pro.splashmusic.com/){:target="_blank" rel="noopener noreferrer"}
+- **Splash Music**: Create songs with AI [https://pro.splashmusic.com/](https://pro.splashmusic.com/)
 - **Google Magenta**: An open-source research project exploring the role of machine learning as a tool in the creative process, including music and sound generation.
 - **AIVA**: Artificial Intelligence Virtual Artist that composes emotional soundtrack music, which can be used for games, films, and other content.
 
