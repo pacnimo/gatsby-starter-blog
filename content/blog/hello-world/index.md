@@ -48,3 +48,4 @@ Code can also be a part of AI discussions:
 
 ```js
 let aiEthics = 'important consideration for future development';
+
