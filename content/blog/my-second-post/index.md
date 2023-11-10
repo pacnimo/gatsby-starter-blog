@@ -55,4 +55,4 @@ GitHub's pivot to AI marks a significant moment in the software development land
 
 ---
 
-*Note: Don't forget to link the original announcement blog post in your description for readers seeking more detailed information.*
+[![Video Title](http://img.youtube.com/vi/mpQUDxoQUyU/0.jpg)](http://www.youtube.com/watch?v=mpQUDxoQUyU "Watch the video")
